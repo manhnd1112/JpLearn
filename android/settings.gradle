@@ -1,0 +1,3 @@
+rootProject.name = 'JpLearn'
+
+include ':app'
